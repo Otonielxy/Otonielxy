@@ -3,8 +3,6 @@
 - 🌱 corrida contra o tempo 
 - 💞️ I’m looking to collaborate on com o aprendizado 
 - 📫 How to reach me meu insta otoniel_solitario
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <!---
 Otonielxy/Otonielxy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
